@@ -402,7 +402,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "KONTUR<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Użyj ciemniejszego odcienia, aby podkreślić <br>naturalne kontury twarzy.</p>",
+                "value": "KONTUR<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Użyj ciemniejszego odcienia, aby podkreślić <br>naturalne kontury twarzy.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -432,7 +432,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "ROZŚWIETLENIE<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Użyj odcienia jaśniejszego, który idealnie się <br>blenduje, aby uwypuklić kości policzkowe.</p>",
+                "value": "ROZŚWIETLENIE<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Użyj odcienia jaśniejszego, który idealnie się <br>blenduje, aby uwypuklić kości policzkowe.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -462,7 +462,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "RÓŻ<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Użyj różu na najbardziej płaskie twarzy.<br> Blenduj gąbką, aby osiągnąć efekt <br>naturalnego rumieńca.</p>",
+                "value": "RÓŻ<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Użyj różu na najbardziej płaskie twarzy.<br> Blenduj gąbką, aby osiągnąć efekt <br>naturalnego rumieńca.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -540,7 +540,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "JUMBO ROZŚWIETLACZ <br>W SZTYFCIE<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Ten rozświetlacz w sztyfcie zapewni Twojej<br> twarzy zdrowy blask i piękne wykończenie.<br> Idealny do nakładania na szczyty kości <br>policzkowych, grzbiet nosa i łuk kupidyna.</p>",
+                "value": "JUMBO ROZŚWIETLACZ <br>W SZTYFCIE<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Ten rozświetlacz w sztyfcie zapewni Twojej<br> twarzy zdrowy blask i piękne wykończenie.<br> Idealny do nakładania na szczyty kości <br>policzkowych, grzbiet nosa i łuk kupidyna.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -570,7 +570,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "MARSHMELLOW <br>WYGŁADZAJĄCA BAZA <br>POD MAKIJAŻ <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Wygładza skórę i pomaga przedłużyć <br>trwałość makijażu. Jej piankowa<br> konsystencja i słodki zapach to przyjemność <br>podczas aplikacji.</p>",
+                "value": "MARSHMELLOW <br>WYGŁADZAJĄCA BAZA <br>POD MAKIJAŻ <br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Wygładza skórę i pomaga przedłużyć <br>trwałość makijażu. Jej piankowa<br> konsystencja i słodki zapach to przyjemność <br>podczas aplikacji.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -600,7 +600,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "BARE WITH ME KOREKTOR <br>Z SERUM<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Połączenie korektora z serum, który nawilża i<br> wygładza skórę. Idealny do kamuflażu cieni <br>pod oczami i niedoskonałości.</p>",
+                "value": "BARE WITH ME KOREKTOR <br>Z SERUM<br><p style=\"font-weight: normal;font-size:16px;text-transform: none\">Połączenie korektora z serum, który nawilża i<br> wygładza skórę. Idealny do kamuflażu cieni <br>pod oczami i niedoskonałości.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
