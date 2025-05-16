@@ -70,7 +70,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "24px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "color": "#000",
                   "textAlign": "left",
@@ -79,12 +79,13 @@
                   "padding": "0 16px",
                   "lineHeight": "1",
                   "marginTop": "30px",
+                  "marginBottom": "30px",
                   "maxWidth": "100%"
                 }
               },
               {
                 "name": "content",
-                "value": "<ul><li>Dwustronny sztyft do konturowania.</li><li>Posiada kremową formułę, która idealnie się blenduje.</li><li>Idealny do zaznaczenia kości policzkowych i podkreślenia owalu twarzy.</li></ul>✅ Dostępny w 8 odcieniach!",
+                "value": "<ul><li style=\"margin-bottom: 20px\">Dwustronny sztyft do konturowania.</li><li style=\"margin-bottom: 20px\">Posiada kremową formułę, która idealnie się blenduje.</li><li style=\"margin-bottom: 20px\">Idealny do zaznaczenia kości policzkowych i podkreślenia owalu twarzy.</li></ul>✅ Dostępny w 8 odcieniach!",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
@@ -170,7 +171,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "24px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "color": "#000",
                   "textAlign": "left",
@@ -179,12 +180,13 @@
                   "padding": "0 16px",
                   "lineHeight": "1",
                   "marginTop": "30px",
+                  "marginBottom": "30px",
                   "maxWidth": "100%"
                 }
               },
               {
                 "name": "content",
-                "value": "<ul><li>Dwustronny sztyft do konturowania.</li><li>Posiada kremową formułę, wzbogaconą kwasem hialuronowym, która łatwo się blenduje.</li><li>Idealny do zaznaczenia kości policzkowych i podkreślenia rysów twarzy.</li></ul>✅ Dostępny w 5 odcieniach!",
+                "value": "<ul><li style=\"margin-bottom: 20px\">Dwustronny sztyft do konturowania.</li><li style=\"margin-bottom: 20px\">Posiada kremową formułę, wzbogaconą kwasem hialuronowym, która łatwo się blenduje.</li><li style=\"margin-bottom: 20px\">Idealny do zaznaczenia kości policzkowych i podkreślenia rysów twarzy.</li></ul>✅ Dostępny w 5 odcieniach!",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
@@ -270,7 +272,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "24px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "color": "#000",
                   "textAlign": "left",
@@ -279,12 +281,13 @@
                   "padding": "0 16px",
                   "lineHeight": "1",
                   "marginTop": "30px",
+                  "marginBottom": "30px",
                   "maxWidth": "100%"
                 }
               },
               {
                 "name": "content",
-                "value": "<ul><li>Może być stosowana pod łukiem brwiowym w celu rozświetlenia, na dolnej linii wodnej oka dla odświeżenia spojrzenia, a także jako korektor lub do podkreślenia konturu ust.</li><li>Idealna do precyzyjnego rozświetlania.</li><li>Dwustronna kredka o matowym i metalicznym wykończeniu.</li></ul>✅ Dostępny w 5 odcieniach!",
+                "value": "<ul><li style=\"margin-bottom: 20px\">Może być stosowana pod łukiem brwiowym w celu rozświetlenia, na dolnej linii wodnej oka dla odświeżenia spojrzenia, a także jako korektor lub do podkreślenia konturu ust.</li><li style=\"margin-bottom: 20px\">Idealna do precyzyjnego rozświetlania.</li><li style=\"margin-bottom: 20px\">Dwustronna kredka o matowym i metalicznym wykończeniu.</li></ul>✅ Dostępny w 5 odcieniach!",
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
@@ -369,12 +372,12 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "26px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "textTransform": "normal",
                   "color": "#000",
                   "marginTop": "20px",
-                  "marginBottom": "40px",
+                  "marginBottom": "20px",
                   "text-align": "center"
                 }
               },
@@ -382,7 +385,7 @@
                 "name": "columnOneText",
                 "value": "Produkty do konturowania, które musisz mieć w swojej kosmetyczce do konturowania, kształtowania, rozświetlania oraz nadawania koloru twarzy! Dwustronne sztyfty, dzięki którym w dwóch krokach wymodelujesz kontur swojej twarzy i rozświetlisz najwyższe punkty twarzy oraz wielofunkcyjna kredka do mikro rozświetlania i korekty.",
                 "element": "p",
-                "properties": { "text-align": "center" }
+                "properties": { "text-align": "center", "marginBottom": "60px" }
               }
             ],
             "properties": {},
@@ -399,7 +402,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "KONTUR",
+                "value": "KONTUR<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Użyj ciemniejszego odcienia, aby podkreślić <br>naturalne kontury twarzy.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -413,7 +416,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "Użyj ciemniejszego odcienia, aby podkreślić <br>naturalne kontury twarzy.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -429,7 +432,7 @@
               },
               {
                 "name": "columnTwoTitle",
-                "value": "ROZŚWIETLENIE",
+                "value": "ROZŚWIETLENIE<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Użyj odcienia jaśniejszego, który idealnie się <br>blenduje, aby uwypuklić kości policzkowe.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -443,7 +446,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "Użyj odcienia jaśniejszego, który idealnie się <br>blenduje, aby uwypuklić kości policzkowe.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -459,7 +462,7 @@
               },
               {
                 "name": "columnThreeTitle",
-                "value": "RÓŻ",
+                "value": "RÓŻ<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Użyj różu na najbardziej płaskie twarzy.<br> Blenduj gąbką, aby osiągnąć efekt <br>naturalnego rumieńca.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -473,7 +476,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "Użyj różu na najbardziej płaskie twarzy.<br> Blenduj gąbką, aby osiągnąć efekt <br>naturalnego rumieńca.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -507,7 +510,7 @@
                 "element": "DangerHtml",
                 "properties": {
                   "fontFamily": "Roboto",
-                  "fontSize": "26px",
+                  "fontSize": "30px",
                   "fontWeight": "bold",
                   "textTransform": "uppercase",
                   "color": "#000",
@@ -537,7 +540,7 @@
             "data": [
               {
                 "name": "columnOneTitle",
-                "value": "JUMBO ROZŚWIETLACZ <br>W SZTYFCIE",
+                "value": "JUMBO ROZŚWIETLACZ <br>W SZTYFCIE<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Ten rozświetlacz w sztyfcie zapewni Twojej<br> twarzy zdrowy blask i piękne wykończenie.<br> Idealny do nakładania na szczyty kości <br>policzkowych, grzbiet nosa i łuk kupidyna.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -551,7 +554,7 @@
               },
               {
                 "name": "columnOneText",
-                "value": "Ten rozświetlacz w sztyfcie zapewni Twojej<br> twarzy zdrowy blask i piękne wykończenie.<br> Idealny do nakładania na szczyty kości <br>policzkowych, grzbiet nosa i łuk kupidyna.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -560,14 +563,14 @@
               },
               {
                 "name": "columnOneAsset",
-                "value": "MOD-08-A.jpg",
+                "value": "MOD-09-A.jpg",
                 "element": "img",
                 "alt": "JUMBO ROZŚWIETLACZ",
                 "properties": {}
               },
               {
                 "name": "columnTwoTitle",
-                "value": "MARSHMELLOW <br>WYGŁADZAJĄCA BAZA <br>POD MAKIJAŻ",
+                "value": "MARSHMELLOW <br>WYGŁADZAJĄCA BAZA <br>POD MAKIJAŻ <br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Wygładza skórę i pomaga przedłużyć <br>trwałość makijażu. Jej piankowa<br> konsystencja i słodki zapach to przyjemność <br>podczas aplikacji.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -581,7 +584,7 @@
               },
               {
                 "name": "columnTwoText",
-                "value": "Wygładza skórę i pomaga przedłużyć <br>trwałość makijażu. Jej piankowa<br> konsystencja i słodki zapach to przyjemność <br>podczas aplikacji.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -590,14 +593,14 @@
               },
               {
                 "name": "columnTwoAsset",
-                "value": "MOD-08-B.jpg",
+                "value": "MOD-09-B.jpg",
                 "element": "img",
                 "alt": "MARSHMELLOW",
                 "properties": {}
               },
               {
                 "name": "columnThreeTitle",
-                "value": "BARE WITH ME KOREKTOR <br>Z SERUM",
+                "value": "BARE WITH ME KOREKTOR <br>Z SERUM<br><p style=\"font-weight: normal;font-size:15px;text-transform: none\">Połączenie korektora z serum, który nawilża i<br> wygładza skórę. Idealny do kamuflażu cieni <br>pod oczami i niedoskonałości.</p>",
                 "element": "DangerHtml",
                 "properties": {
                   "marginTop": "0",
@@ -611,7 +614,7 @@
               },
               {
                 "name": "columnThreeText",
-                "value": "Połączenie korektora z serum, który nawilża i<br> wygładza skórę. Idealny do kamuflażu cieni <br>pod oczami i niedoskonałości.",
+                "value": "",
                 "element": "DangerHtml",
                 "properties": {
                   "fontSize": "15px",
@@ -620,7 +623,7 @@
               },
               {
                 "name": "columnThreeAsset",
-                "value": "MOD-08-C.jpg",
+                "value": "MOD-09-C.jpg",
                 "element": "img",
                 "alt": "KOREKTOR",
                 "properties": {}
